@@ -1,19 +1,14 @@
-﻿<xml>FAIRY TALES</p>
+﻿<xml>FAIRY TALES
 
-<p><author>By The Brothers Grimm</author></p>
+<author>By The Brothers Grimm</author>
 
-<p>
+<note>PREPARER’S NOTE
 
-<note>PREPARER’S NOTE</p>
-
-<p>     The text is based on translations from
+     The text is based on translations from
      the Grimms’ Kinder und Hausmarchen by
-     Edgar Taylor and Marian Edwardes.</note></p>
+     Edgar Taylor and Marian Edwardes.</note>
 
-<p>
-
-
-<contents><head>CONTENTS:</head></p>
+<contents><head>CONTENTS:</head>
 
  <title>THE GOLDEN BIRD</title>
  <title>HANS IN LUCK</title>
@@ -80,11 +75,10 @@
  <title>KING GRISLY-BEARD</title>
  <title>IRON HANS</title>
  <title>CAT-SKIN</title>
- <title>SNOW-WHITE AND ROSE-RED</title></contents></p>
+ <title>SNOW-WHITE AND ROSE-RED</title></contents>
 
- <title></p>
-
-<p><chapter>
+ <title>THE BROTHERS GRIMM FAIRY TALES</title>
+<chapter>
 <title>THE GOLDEN BIRD</title></p>
 
 <p>A certain king had a beautiful garden, and in the garden stood a tree
@@ -289,11 +283,10 @@ met him, and besought him with tears in his eyes to kill him, and cut
 off his head and feet. And at last he did so, and in a moment the
 fox was changed into a man, and turned out to be the brother of the
 princess, who had been lost a great many many years.</p>
+</chapter>
 
-<p>
-
-
-HANS IN LUCK</p>
+<chapter>
+<title>HANS IN LUCK</title>
 
 <p>Some men are born to good luck: all they do or try to do comes
 right--all that falls to them is so much gain--all their geese are
@@ -493,11 +486,10 @@ the ugly heavy stone.</p>
 got with a light heart, free from all his troubles, and walked on till
 he reached his mother’s house, and told her how very easy the road to
 good luck was.</p>
+</chapter>
 
-<p>
-
-
-JORINDA AND JORINDEL</p>
+<chapter>
+<title>JORINDA AND JORINDEL</title>
 
 <p>There was once an old castle, that stood in the middle of a deep gloomy
 wood, and in the castle lived an old fairy. Now this fairy could take
@@ -611,11 +603,10 @@ took their old forms again; and he took Jorinda home, where they were
 married, and lived happily together many years: and so did a good many
 other lads, whose maidens had been forced to sing in the old fairy’s
 cages by themselves, much longer than they liked.</p>
+</chapter>
 
-<p>
-
-
-THE TRAVELLING MUSICIANS</p>
+<chapter>
+<title>THE TRAVELLING MUSICIANS</title>
 
 <p>An honest farmer had once an ass that had been a faithful servant to him
 a great many years, but was now growing old and every day more and more
@@ -725,11 +716,10 @@ club, and how the devil had sat upon the top of the house and cried out,
 back to the house; but the musicians were so pleased with their quarters
 that they took up their abode there; and there they are, I dare say, at
 this very day.</p>
+</chapter>
 
-<p>
-
-
-OLD SULTAN</p>
+<chapter>
+<title>OLD SULTAN</title>
 
 <p>A shepherd had a faithful dog, called Sultan, who was grown very old,
 and had lost all his teeth. And one day when the shepherd and his wife
@@ -799,11 +789,10 @@ sits the one who is to blame.’ So they looked up, and espied the wolf
 sitting amongst the branches; and they called him a cowardly rascal,
 and would not suffer him to come down till he was heartily ashamed of
 himself, and had promised to be good friends again with old Sultan.</p>
+</chapter>
 
-<p>
-
-
-THE STRAW, THE COAL, AND THE BEAN</p>
+<chapter>
+<title>THE STRAW, THE COAL, AND THE BEAN</title>
 
 <p>In a village dwelt a poor old woman, who had gathered together a dish
 of beans and wanted to cook them. So she made a fire on her hearth, and
@@ -847,11 +836,10 @@ was travelling in search of work, had not sat down to rest by the brook.
 As he had a compassionate heart he pulled out his needle and thread,
 and sewed her together. The bean thanked him most prettily, but as the
 tailor used black thread, all beans since then have a black seam.</p>
+</chapter>
 
-<p>
-
-
-BRIAR ROSE</p>
+<chapter>
+<title>BRIAR ROSE</title>
 
 <p>A king and queen once upon a time reigned in a country a great way off,
 where there were in those days fairies. Now this king and queen had
@@ -978,11 +966,10 @@ the boy the box on his ear.</p>
 
 <p>And then the prince and Briar Rose were married, and the wedding feast
 was given; and they lived happily together all their lives long.</p>
+</chapter>
 
-<p>
-
-
-THE DOG AND THE SPARROW</p>
+<chapter>
+<title>THE DOG AND THE SPARROW</title>
 
 <p>A shepherd’s dog had a master who took no care of him, but often let him
 suffer the greatest hunger. At last he could bear it no longer; so he
@@ -1082,10 +1069,9 @@ could wait no longer: so he gave his wife the hatchet, and cried, ‘Wife,
 strike at the bird and kill her in my hand.’ And the wife struck; but
 she missed her aim, and hit her husband on the head so that he fell down
 dead, and the sparrow flew quietly home to her nest.</p>
+</chapter>
 
-<p>
-
-
+<chapter>
 THE TWELVE DANCING PRINCESSES</p>
 
 <p>There was a king who had twelve beautiful daughters. They slept in
@@ -1222,11 +1208,10 @@ asked the soldier which of them he would choose for his wife; and he
 answered, ‘I am not very young, so I will have the eldest.’--And they
 were married that very day, and the soldier was chosen to be the king’s
 heir.</p>
+</chapter>
 
-<p>
-
-
-THE FISHERMAN AND HIS WIFE</p>
+<chapter>
+<title>THE FISHERMAN AND HIS WIFE</title>
 
 <p>There was once a fisherman who lived with his wife in a pigsty, close
 by the seaside. The fisherman used to go out all day long a-fishing; and
@@ -1433,11 +1418,10 @@ be lord of the sun and moon.’ ‘Go home,’ said the fish, ‘to your pigsty
 again.’</p>
 
 <p>And there they live to this very day.</p>
+</chapter>
 
-<p>
-
-
-THE WILLOW-WREN AND THE BEAR</p>
+<chapter>
+<title>THE WILLOW-WREN AND THE BEAR</title>
 
 <p>Once in summer-time the bear and the wolf were walking in the forest,
 and the bear heard a bird singing so beautifully that he said: ‘Brother
@@ -1512,11 +1496,10 @@ be broken.’ So the bear crept thither in the greatest fear, and begged
 their pardon. And now at last the young wrens were satisfied, and sat
 down together and ate and drank, and made merry till quite late into the
 night.</p>
+</chapter>
 
-<p>
-
-
-THE FROG-PRINCE</p>
+<chapter>
+<title>THE FROG-PRINCE</title>
 
 <p>One fine evening a young princess put on her bonnet and clogs, and went
 out to take a walk by herself in a wood; and when she came to a cool
@@ -1627,11 +1610,10 @@ bitterly, that his heart had well-nigh burst.</p>
 horses, and all set out, full of joy and merriment, for the prince’s
 kingdom, which they reached safely; and there they lived happily a great
 many years.</p>
+</chapter>
 
-<p>
-
-
-CAT AND MOUSE IN PARTNERSHIP</p>
+<chapter>
+<title>CAT AND MOUSE IN PARTNERSHIP</title>
 
 <p>A certain cat had made the acquaintance of a mouse, and had said so much
 to her about the great love and friendship she felt for her, that at
@@ -1711,11 +1693,10 @@ cat, ‘one word more, and I will eat you too.’ ‘All-gone’ was already on
 the poor mouse’s lips; scarcely had she spoken it before the cat sprang
 on her, seized her, and swallowed her down. Verily, that is the way of
 the world.</p>
+</chapter>
 
-<p>
-
-
-THE GOOSE-GIRL</p>
+<chapter>
+<title>THE GOOSE-GIRL</title>
 
 <p>The king of a great land died, and left his queen to take care of their
 only child. This child was a daughter, who was very beautiful; and her
@@ -1946,11 +1927,10 @@ thou has judged thyself, so shall it be done to thee.’ And the young
 king was then married to his true wife, and they reigned over the
 kingdom in peace and happiness all their lives; and the good fairy came
 to see them, and restored the faithful Falada to life again.</p>
+</chapter>
 
-<p>
-
-
-THE ADVENTURES OF CHANTICLEER AND PARTLET</p>
+<chapter>
+<title>THE ADVENTURES OF CHANTICLEER AND PARTLET</title>
 
 <p>
 1. HOW THEY WENT TO THE MOUNTAINS TO EAT NUTS</p>
@@ -2123,11 +2103,10 @@ and were all carried away by the stream and drowned.</p>
 a grave for her, he laid her in it, and made a little hillock over her.
 Then he sat down by the grave, and wept and mourned, till at last he
 died too; and so all were dead.</p>
+</chapter>
 
-<p>
-
-
-RAPUNZEL</p>
+<chapter>
+<title>RAPUNZEL</title>
 
 <p>There were once a man and a woman who had long in vain wished for a
 child. At length the woman hoped that God was about to grant her desire.
@@ -2253,11 +2232,10 @@ of her tears wetted his eyes and they grew clear again, and he could
 see with them as before. He led her to his kingdom where he was
 joyfully received, and they lived for a long time afterwards, happy and
 contented.</p>
+</chapter>
 
-<p>
-
-
-FUNDEVOGEL</p>
+<chapter>
+<title>FUNDEVOGEL</title>
 
 <p>There was once a forester who went into the forest to hunt, and as
 he entered it he heard a sound of screaming as if a little child were
@@ -2335,11 +2313,10 @@ and was about to drink it up. But the duck swam quickly to her, seized
 her head in its beak and drew her into the water, and there the old
 witch had to drown. Then the children went home together, and were
 heartily delighted, and if they have not died, they are living still.</p>
+</chapter>
 
-<p>
-
-
-THE VALIANT LITTLE TAILOR</p>
+<chapter>
+<title>THE VALIANT LITTLE TAILOR</title>
 
 <p>One summer’s morning a little tailor was sitting on his table by the
 window; he was in good spirits, and sewed with all his might. Then came
@@ -2603,11 +2580,10 @@ were overcome by a great dread, and ran as if the wild huntsman were
 behind them, and none of them would venture anything further against
 him. So the little tailor was and remained a king to the end of his
 life.</p>
+</chapter>
 
-<p>
-
-
-HANSEL AND GRETEL</p>
+<chapter>
+<title>HANSEL AND GRETEL</title>
 
 <p>Hard by a great forest dwelt a poor wood-cutter with his wife and his
 two children. The boy was called Hansel and the girl Gretel. He had
@@ -2860,11 +2836,10 @@ room, and Hansel threw one handful after another out of his pocket to
 add to them. Then all anxiety was at an end, and they lived together
 in perfect happiness. My tale is done, there runs a mouse; whosoever
 catches it, may make himself a big fur cap out of it.</p>
+</chapter>
 
-<p>
-
-
-THE MOUSE, THE BIRD, AND THE SAUSAGE</p>
+<chapter>
+<title>THE MOUSE, THE BIRD, AND THE SAUSAGE</title>
 
 <p>Once upon a time, a mouse, a bird, and a sausage, entered into
 partnership and set up house together. For a long time all went well;
@@ -2926,11 +2901,10 @@ be found. Then some of the wood that had been carelessly thrown down,
 caught fire and began to blaze. The bird hastened to fetch some water,
 but his pail fell into the well, and he after it, and as he was unable
 to recover himself, he was drowned.</p>
+</chapter>
 
-<p>
-
-
-MOTHER HOLLE</p>
+<chapter>
+<title>MOTHER HOLLE</title>
 
 <p>Once upon a time there was a widow who had two daughters; one of them
 was beautiful and industrious, the other ugly and lazy. The mother,
@@ -3058,11 +3032,10 @@ well called out as she saw her:</p>
 
 <p>But, try what she would, she could not get the pitch off and it stuck to
 her as long as she lived.</p>
+</chapter>
 
-<p>
-
-
-LITTLE RED-CAP [LITTLE RED RIDING HOOD]</p>
+<chapter>
+<title>LITTLE RED-CAP [LITTLE RED RIDING HOOD]</title>
 
 <p>Once upon a time there was a dear little girl who was loved by everyone
 who looked at her, but most of all by her grandmother, and there was
@@ -3194,9 +3167,6 @@ Red-Cap had brought, and revived, but Red-Cap thought to herself: ‘As
 long as I live, I will never by myself leave the path, to run into the
 wood, when my mother has forbidden me to do so.’</p>
 
-<p>
-
-
 It also related that once when Red-Cap was again taking cakes to the old
 grandmother, another wolf spoke to her, and tried to entice her from the
 path. Red-Cap, however, was on her guard, and went straight forward on
@@ -3219,11 +3189,10 @@ and at last stretched out his neck so far that he could no longer keep
 his footing and began to slip, and slipped down from the roof straight
 into the great trough, and was drowned. But Red-Cap went joyously home,
 and no one ever did anything to harm her again.</p>
+</chapter>
 
-<p>
-
-
-THE ROBBER BRIDEGROOM</p>
+<chapter>
+<title>THE ROBBER BRIDEGROOM</title>
 
 <p>There was once a miller who had one beautiful daughter, and as she was
 grown up, he was anxious that she should be well married and provided
@@ -3373,11 +3342,10 @@ assembled guests.</p>
 tried to escape, but the guests seized him and held him fast. They
 delivered him up to justice, and he and all his murderous band were
 condemned to death for their wicked deeds.</p>
+</chapter>
 
-<p>
-
-
-TOM THUMB</p>
+<chapter>
+<title>TOM THUMB</title>
 
 <p>A poor woodman sat in his cottage one night, smoking his pipe by the
 fireside, while his wife sat by his side spinning. ‘How lonely it is,
@@ -3589,11 +3557,10 @@ So Master Thumb stayed at home with his father and mother, in peace; for
 though he had been so great a traveller, and had done and seen so many
 fine things, and was fond enough of telling the whole story, he always
 agreed that, after all, there’s no place like HOME!</p>
+</chapter>
 
-<p>
-
-
-RUMPELSTILTSKIN</p>
+<chapter>
+<title>RUMPELSTILTSKIN</title>
 
 <p>By the side of a wood, in a country a long way off, ran a fine stream
 of water; and upon the stream there stood a mill. The miller’s house was
@@ -3706,11 +3673,10 @@ out.</p>
 baby crowed; and all the court jeered at him for having had so much
 trouble for nothing, and said, ‘We wish you a very good morning, and a
 merry feast, Mr RUMPLESTILTSKIN!’</p>
+</chapter>
 
-<p>
-
-
-CLEVER GRETEL</p>
+<chapter>
+<title>CLEVER GRETEL</title>
 
 <p>There was once a cook named Gretel, who wore shoes with red heels, and
 when she walked out with them on, she turned herself this way and that,
@@ -3785,11 +3751,10 @@ that the guest should leave him just one chicken, and not take both. The
 guest, however, thought no otherwise than that he was to give up one of
 his ears, and ran as if fire were burning under him, in order to take
 them both with him.</p>
+</chapter>
 
-<p>
-
-
-THE OLD MAN AND HIS GRANDSON</p>
+<chapter>
+<title>THE OLD MAN AND HIS GRANDSON</title>
 
 <p>There was once a very old man, whose eyes had become dim, his ears dull
 of hearing, his knees trembled, and when he sat at table he could hardly
@@ -3812,11 +3777,10 @@ answered the child, ‘for father and mother to eat out of when I am big.’</p>
 began to cry. Then they took the old grandfather to the table, and
 henceforth always let him eat with them, and likewise said nothing if he
 did spill a little of anything.</p>
+</chapter>
 
-<p>
-
-
-THE LITTLE PEASANT</p>
+<chapter>
+<title>THE LITTLE PEASANT</title>
 
 <p>There was a certain village wherein no one lived but really rich
 peasants, and just one poor one, whom they called the little peasant. He
@@ -3981,11 +3945,10 @@ if things promise well I’ll call you.’ So he jumped in; splash! went
 the water; it sounded as if he were calling them, and the whole crowd
 plunged in after him as one man. Then the entire village was dead, and
 the small peasant, as sole heir, became a rich man.</p>
+</chapter>
 
-<p>
-
-
-FREDERICK AND CATHERINE</p>
+<chapter>
+<title>FREDERICK AND CATHERINE</title>
 
 <p>There was once a man called Frederick: he had a wife whose name was
 Catherine, and they had not long been married. One day Frederick said.
@@ -4145,11 +4108,10 @@ went the door with such a clatter upon the thieves, that they cried
 out ‘Murder!’ and not knowing what was coming, ran away as fast as they
 could, and left all the gold. So when Frederick and Catherine came down,
 there they found all their money safe and sound.</p>
+</chapter>
 
-<p>
-
-
-SWEETHEART ROLAND</p>
+<chapter>
+<title>SWEETHEART ROLAND</title>
 
 <p>There was once upon a time a woman who was a real witch and had two
 daughters, one ugly and wicked, and this one she loved because she was
@@ -4269,11 +4231,10 @@ bride, I will have no other!’ Everything he had forgotten, and which had
 vanished from his mind, had suddenly come home again to his heart. Then
 the faithful maiden held her wedding with her sweetheart Roland, and
 grief came to an end and joy began.</p>
+</chapter>
 
-<p>
-
-
-SNOWDROP</p>
+<chapter>
+<title>SNOWDROP</title>
 
 <p>It was the middle of winter, when the broad flakes of snow were falling
 around, that the queen of a country many thousand miles off sat working
@@ -4502,11 +4463,10 @@ down and died: but Snowdrop and the prince lived and reigned happily
 over that land many, many years; and sometimes they went up into the
 mountains, and paid a visit to the little dwarfs, who had been so kind
 to Snowdrop in her time of need.</p>
+</chapter>
 
-<p>
-
-
-THE PINK</p>
+<chapter>
+<title>THE PINK</title>
 
 <p>There was once upon a time a queen to whom God had given no children.
 Every morning she went into the garden and prayed to God in heaven to
@@ -4642,11 +4602,10 @@ king ordered the cook to be torn in four pieces, but grief consumed the
 king’s own heart, and he soon died. His son married the beautiful maiden
 whom he had brought with him as a flower in his pocket, and whether they
 are still alive or not, is known to God.</p>
+</chapter>
 
-<p>
-
-
-CLEVER ELSIE</p>
+<chapter>
+<title>CLEVER ELSIE</title>
 
 <p>There was once a man who had a daughter who was called Clever Elsie. And
 when she had grown up her father said: ‘We will get her married.’ ‘Yes,’
@@ -4747,11 +4706,10 @@ answered Hans, ‘she is within.’ Hereupon she was terrified, and said:
 people heard the jingling of the bells they would not open it, and she
 could get in nowhere. Then she ran out of the village, and no one has
 seen her since.</p>
+</chapter>
 
-<p>
-
-
-THE MISER IN THE BUSH</p>
+<chapter>
+<title>THE MISER IN THE BUSH</title>
 
 <p>A farmer had a faithful and diligent servant, who had worked hard for
 him three years, without having been paid any wages. At last it came
@@ -4848,11 +4806,10 @@ you got that gold, or I shall play on for your amusement only,’ ‘I stole
 it,’ said the miser in the presence of all the people; ‘I acknowledge
 that I stole it, and that you earned it fairly.’ Then the countryman
 stopped his fiddle, and left the miser to take his place at the gallows.</p>
+</chapter>
 
-<p>
-
-
-ASHPUTTEL</p>
+<chapter>
+<title>ASHPUTTEL</title>
 
 <p>The wife of a rich man fell sick; and when she felt that her end drew
 nigh, she called her only daughter to her bed-side, and said, ‘Always be
@@ -5097,11 +5054,10 @@ white dove sang:</p>
 
 <p>And when the dove had done its song, it came flying, and perched upon
 her right shoulder, and so went home with her.</p>
+</chapter>
 
-<p>
-
-
-THE WHITE SNAKE</p>
+<chapter>
+<title>THE WHITE SNAKE</title>
 
 <p>A long time ago there lived a king who was famed for his wisdom through
 all the land. Nothing was hidden from him, and it seemed as if news of
@@ -5239,11 +5195,10 @@ homewards, and took the Golden Apple to the king’s beautiful daughter,
 who had now no more excuses left to make. They cut the Apple of Life in
 two and ate it together; and then her heart became full of love for him,
 and they lived in undisturbed happiness to a great age.</p>
+</chapter>
 
-<p>
-
-
-THE WOLF AND THE SEVEN LITTLE KIDS</p>
+<chapter>
+<title>THE WOLF AND THE SEVEN LITTLE KIDS</title>
 
 <p>There was once upon a time an old goat who had seven little kids, and
 loved them with all the love of a mother for her children. One day she
@@ -5338,11 +5293,10 @@ heavy stones made him fall in, and he drowned miserably. When the seven
 kids saw that, they came running to the spot and cried aloud: ‘The wolf
 is dead! The wolf is dead!’ and danced for joy round about the well with
 their mother.</p>
+</chapter>
 
-<p>
-
-
-THE QUEEN BEE</p>
+<chapter>
+<title>THE QUEEN BEE</title>
 
 <p>Two kings’ sons once upon a time went into the world to seek their
 fortunes; but they soon fell into a wasteful foolish way of living, so
@@ -5419,11 +5373,10 @@ which was the youngest. Thus the spell was broken, and all who had been
 turned into stones awoke, and took their proper forms. And the dwarf
 married the youngest and the best of the princesses, and was king after
 her father’s death; but his two brothers married the other two sisters.</p>
+</chapter>
 
-<p>
-
-
-THE ELVES AND THE SHOEMAKER</p>
+<chapter>
+<title>THE ELVES AND THE SHOEMAKER</title>
 
 <p>There was once a shoemaker, who worked very hard and was very honest:
 but still he could not earn enough to live upon; and at last all he
@@ -5492,11 +5445,10 @@ out at the door, and away over the green.</p>
 
 <p>The good couple saw them no more; but everything went well with them
 from that time forward, as long as they lived.</p>
+</chapter>
 
-<p>
-
-
-THE JUNIPER-TREE</p>
+<chapter>
+<title>THE JUNIPER-TREE</title>
 
 <p>Long, long ago, some two thousand years or so, there lived a rich
 man with a good and beautiful wife. They loved each other dearly, but
@@ -5877,11 +5829,10 @@ saw mist and flame and fire rising from the spot, and when these had
 passed, there stood the little brother, and he took the father and
 little Marleen by the hand; then they all three rejoiced, and went
 inside together and sat down to their dinners and ate.</p>
+</chapter>
 
-<p>
-
-
-THE TURNIP</p>
+<chapter>
+<title>THE TURNIP</title>
 
 <p>There were two brothers who were both soldiers; the one was rich and
 the other poor. The poor man thought he would try to better himself; so,
@@ -5984,11 +5935,10 @@ till thou art a wiser man than thou wert.’</p>
 
 <p>So saying, he trotted off on the student’s nag, and left the poor fellow
 to gather wisdom till somebody should come and let him down.</p>
+</chapter>
 
-<p>
-
-
-CLEVER HANS</p>
+<chapter>
+<title>CLEVER HANS</title>
 
 <p>The mother of Hans said: ‘Whither away, Hans?’ Hans answered: ‘To
 Gretel.’ ‘Behave well, Hans.’ ‘Oh, I’ll behave well. Goodbye, mother.’
@@ -6079,11 +6029,10 @@ mind, will do better.’</p>
 <p>Hans went into the stable, cut out all the calves’ and sheep’s eyes,
 and threw them in Gretel’s face. Then Gretel became angry, tore herself
 loose and ran away, and was no longer the bride of Hans.</p>
+</chapter>
 
-<p>
-
-
-THE THREE LANGUAGES</p>
+<chapter>
+<title>THE THREE LANGUAGES</title>
 
 <p>An aged count once lived in Switzerland, who had an only son, but he
 was stupid, and could learn nothing. Then said the father: ‘Hark you,
@@ -6157,11 +6106,10 @@ what he had heard from the frogs on his way, which had so affected him,
 that he was to be his Holiness the Pope. Then he had to sing a mass, and
 did not know one word of it, but the two doves sat continually on his
 shoulders, and said it all in his ear.</p>
+</chapter>
 
-<p>
-
-
-THE FOX AND THE CAT</p>
+<chapter>
+<title>THE FOX AND THE CAT</title>
 
 <p>It happened that the cat met the fox in a forest, and as she thought to
 herself: ‘He is clever and full of experience, and much esteemed in the
@@ -6184,11 +6132,10 @@ sack, Mr Fox, open your sack,’ cried the cat to him, but the dogs had
 already seized him, and were holding him fast. ‘Ah, Mr Fox,’ cried the
 cat. ‘You with your hundred arts are left in the lurch! Had you been
 able to climb like me, you would not have lost your life.’</p>
+</chapter>
 
-<p>
-
-
-THE FOUR CLEVER BROTHERS</p>
+<chapter>
+<title>THE FOUR CLEVER BROTHERS</title>
 
 <p>‘Dear children,’ said a poor man to his four sons, ‘I have nothing to
 give you; you must go out into the wide world and try your luck. Begin
@@ -6328,11 +6275,10 @@ as he had said; and they lived very happily the rest of their days, and
 took good care of their father; and somebody took better care of the
 young lady, than to let either the dragon or one of the craftsmen have
 her again.</p>
+</chapter>
 
-<p>
-
-
-LILY AND THE LION</p>
+<chapter>
+<title>LILY AND THE LION</title>
 
 <p>A merchant, who had three daughters, was once setting out upon a
 journey; but before he went he asked each daughter what gift he should
@@ -6525,11 +6471,10 @@ and immediately a large nut-tree arose from the sea, whereon the griffin
 rested for a while, and then carried them safely home. There they found
 their child, now grown up to be comely and fair; and after all their
 troubles they lived happily together to the end of their days.</p>
+</chapter>
 
-<p>
-
-
-THE FOX AND THE HORSE</p>
+<chapter>
+<title>THE FOX AND THE HORSE</title>
 
 <p>A farmer had a horse that had been an excellent faithful servant to
 him: but he was now grown too old to work; so the farmer would give him
@@ -6572,11 +6517,10 @@ master’s house.</p>
 the farmer saw his old servant, his heart relented, and he said. ‘Thou
 shalt stay in thy stable and be well taken care of.’ And so the poor old
 horse had plenty to eat, and lived--till he died.</p>
+</chapter>
 
-<p>
-
-
-THE BLUE LIGHT</p>
+<chapter>
+<title>THE BLUE LIGHT</title>
 
 <p>There was once upon a time a soldier who for many years had served the
 king faithfully, but when the war came to an end could serve no longer
@@ -6715,11 +6659,10 @@ his cudgel fell to earth, and did not venture to stir again. The king
 was terrified; he threw himself on the soldier’s mercy, and merely to
 be allowed to live at all, gave him his kingdom for his own, and his
 daughter to wife.</p>
+</chapter>
 
-<p>
-
-
-THE RAVEN</p>
+<chapter>
+<title>THE RAVEN</title>
 
 <p>There was once a queen who had a little daughter, still too young to run
 alone. One day the child was very troublesome, and the mother could not
@@ -6923,11 +6866,10 @@ the cloak. When therefore she came to the castle gate she saw him, and
 cried aloud for joy. Then he dismounted and took her in his arms; and
 she kissed him, and said, ‘Now you have indeed set me free, and tomorrow
 we will celebrate our marriage.’</p>
+</chapter>
 
-<p>
-
-
-THE GOLDEN GOOSE</p>
+<chapter>
+<title>THE GOLDEN GOOSE</title>
 
 <p>There was a man who had three sons, the youngest of whom was called
 Dummling,[*] and was despised, mocked, and sneered at on every occasion.</p>
@@ -7073,11 +7015,10 @@ wedding was celebrated, and after the king’s death, Dummling inherited
 his kingdom and lived for a long time contentedly with his wife.</p>
 
 <p>     [*] Simpleton</p>
+</chapter>
 
-<p>
-
-
-THE WATER OF LIFE</p>
+<chapter>
+<title>THE WATER OF LIFE</title>
 
 <p>Long before you or I were born, there reigned, in a country a great way
 off, a king who had three sons. This king once fell very ill--so ill
@@ -7305,11 +7246,10 @@ sugarloaf hat, and a new scarlet cloak.</p>
 <p>  And the wedding was held, and the merry bells run.
   And all the good people they danced and they sung,
   And feasted and frolick’d I can’t tell how long.</p>
+</chapter>
 
-<p>
-
-
-THE TWELVE HUNTSMEN</p>
+<chapter>
+<title>THE TWELVE HUNTSMEN</title>
 
 <p>There was once a king’s son who had a bride whom he loved very much. And
 when he was sitting beside her and very happy, news came that his father
@@ -7400,11 +7340,10 @@ bride, and entreated her to return to her own kingdom, for he had a wife
 already, and someone who had just found an old key did not require a new
 one. Thereupon the wedding was celebrated, and the lion was again taken
 into favour, because, after all, he had told the truth.</p>
+</chapter>
 
-<p>
-
-
-THE KING OF THE GOLDEN MOUNTAIN</p>
+<chapter>
+<title>THE KING OF THE GOLDEN MOUNTAIN</title>
 
 <p>There was once a merchant who had only one child, a son, that was very
 young, and barely able to run alone. He had two richly laden ships then
@@ -7605,11 +7544,10 @@ if they would go in peace or not. Then they turned upon him and tried
 to seize him; but he drew his sword. ‘Heads Off!’ cried he; and with the
 word the traitors’ heads fell before him, and Heinel was once more king
 of the Golden Mountain.</p>
+</chapter>
 
-<p>
-
-
-DOCTOR KNOWALL</p>
+<chapter>
+<title>DOCTOR KNOWALL</title>
 
 <p>There was once upon a time a poor peasant called Crabb, who drove with
 two oxen a load of wood to the town, and sold it to a doctor for two
@@ -7669,11 +7607,10 @@ stove thought that the doctor meant him, and full of terror, sprang out,
 crying: ‘That man knows everything!’ Then Doctor Knowall showed the lord
 where the money was, but did not say who had stolen it, and received
 from both sides much money in reward, and became a renowned man.</p>
+</chapter>
 
-<p>
-
-
-THE SEVEN RAVENS</p>
+<chapter>
+<title>THE SEVEN RAVENS</title>
 
 <p>There was once a man who had seven sons, and last of all one daughter.
 Although the little girl was very pretty, she was so weak and small that
@@ -7761,14 +7698,13 @@ free.’ When the little girl heard this (for she stood behind the door
 all the time and listened), she ran forward, and in an instant all
 the ravens took their right form again; and all hugged and kissed each
 other, and went merrily home.</p>
+</chapter>
+
+<chapter>
+<title>THE WEDDING OF MRS FOX</title>
 
 <p>
-
-
-THE WEDDING OF MRS FOX</p>
-
-<p>
-FIRST STORY</p>
+<title>FIRST STORY</title></p>
 
 <p>There was once upon a time an old fox with nine tails, who believed that
 his wife was not faithful to him, and wished to put her to the test. He
@@ -7825,7 +7761,7 @@ under the bench, and cudgelled all the rabble, and drove them and Mrs
 Fox out of the house.</p>
 
 <p>
-SECOND STORY</p>
+<title>SECOND STORY</title></p>
 
 <p>When old Mr Fox was dead, the wolf came as a suitor, and knocked at the
 door, and the cat who was servant to Mrs Fox, opened it for him. The
@@ -7882,11 +7818,10 @@ feast.</p>
 <p>Then the wedding was solemnized with young Mr Fox, and there was much
 rejoicing and dancing; and if they have not left off, they are dancing
 still.</p>
+</chapter>
 
-<p>
-
-
-THE SALAD</p>
+<chapter>
+<title>THE SALAD</title>
 
 <p>As a merry young huntsman was once going briskly along through a wood,
 there came up a little old woman, and said to him, ‘Good day, good day;
@@ -8060,11 +7995,10 @@ hangs up in the closet, and as for the bird’s heart, I will give it you
 too.’ But he said, ‘Keep it, it will be just the same thing, for I mean
 to make you my wife.’ So they were married, and lived together very
 happily till they died.</p>
+</chapter>
 
-<p>
-
-
-THE STORY OF THE YOUTH WHO WENT FORTH TO LEARN WHAT FEAR WAS</p>
+<chapter>
+<title>THE STORY OF THE YOUTH WHO WENT FORTH TO LEARN WHAT FEAR WAS</title>
 
 <p>A certain father had two sons, the elder of who was smart and sensible,
 and could do everything, but the younger was stupid and could neither
@@ -8365,11 +8299,10 @@ with the gudgeons in it over him, so that the little fishes would
 sprawl about him. Then he woke up and cried: ‘Oh, what makes me shudder
 so?--what makes me shudder so, dear wife? Ah! now I know what it is to
 shudder!’</p>
+</chapter>
 
-<p>
-
-
-KING GRISLY-BEARD</p>
+<chapter>
+<title>KING GRISLY-BEARD</title>
 
 <p>A great king of a land far away in the East had a daughter who was very
 beautiful, but so proud, and haughty, and conceited, that none of the
@@ -8494,11 +8427,10 @@ her father and his whole court were there already, and welcomed her home
 on her marriage. Joy was in every face and every heart. The feast was
 grand; they danced and sang; all were merry; and I only wish that you
 and I had been of the party.</p>
+</chapter>
 
-<p>
-
-
-IRON HANS</p>
+<chapter>
+<title>IRON HANS</title>
 
 <p>There was once upon a time a king who had a great forest near his
 palace, full of all kinds of wild animals. One day he sent out a
@@ -8750,11 +8682,10 @@ suddenly stopped, the doors opened, and a stately king came in with a
 great retinue. He went up to the youth, embraced him and said: ‘I am
 Iron Hans, and was by enchantment a wild man, but you have set me free;
 all the treasures which I possess, shall be your property.’</p>
+</chapter>
 
-<p>
-
-
-CAT-SKIN</p>
+<chapter>
+<title>CAT-SKIN</title>
 
 <p>There was once a king, whose queen had hair of the purest gold, and was
 so beautiful that her match was not to be met with on the whole face of
@@ -8919,10 +8850,9 @@ most beautiful princess upon the face of the earth. But the king said,
 ‘You are my beloved bride, and we will never more be parted from each
 other.’ And the wedding feast was held, and a merry day it was, as ever
 was heard of or seen in that country, or indeed in any other.</p>
+</chapter>
 
-<p>
-
-
+<chapter>
 SNOW-WHITE AND ROSE-RED</p>
 
 <p>There was once a poor widow who lived in a lonely cottage. In front of
@@ -9142,4 +9072,5 @@ together in his cave. The old mother lived peacefully and happily with
 her children for many years. She took the two rose-trees with her, and
 they stood before her window, and every year bore the most beautiful
 roses, white and red.
+</chapter>
 </xml>
