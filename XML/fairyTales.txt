@@ -1,97 +1,91 @@
-﻿FAIRY TALES
+﻿<xml>FAIRY TALES
 
-By The Brothers Grimm
+<author>By The Brothers Grimm</author>
 
 
 
-PREPARER’S NOTE
+<note>PREPARER’S NOTE
 
      The text is based on translations from
      the Grimms’ Kinder und Hausmarchen by
-     Edgar Taylor and Marian Edwardes.
+     Edgar Taylor and Marian Edwardes.</note>
 
 
 
 
-CONTENTS:
+<contents><head>CONTENTS:</head>
 
-     THE GOLDEN BIRD
-     HANS IN LUCK
-     JORINDA AND JORINDEL
-     THE TRAVELLING MUSICIANS
-     OLD SULTAN
-     THE STRAW, THE COAL, AND THE BEAN
-     BRIAR ROSE
-     THE DOG AND THE SPARROW
-     THE TWELVE DANCING PRINCESSES
-     THE FISHERMAN AND HIS WIFE
-     THE WILLOW-WREN AND THE BEAR
-     THE FROG-PRINCE
-     CAT AND MOUSE IN PARTNERSHIP
-     THE GOOSE-GIRL
-     THE ADVENTURES OF CHANTICLEER AND PARTLET
+     <title>THE GOLDEN BIRD</title>
+     <title>HANS IN LUCK</title>
+     <title>JORINDA AND JORINDEL</title>
+     <title>THE TRAVELLING MUSICIANS</title>
+     <title>OLD SULTAN</title>
+     <title>THE STRAW, THE COAL, AND THE BEAN</title>
+     <title>BRIAR ROSE</title>
+     <title>THE DOG AND THE SPARROW</title>
+     <title>THE TWELVE DANCING PRINCESSES</title>
+     <title>THE FISHERMAN AND HIS WIFE</title>
+     <title>THE WILLOW-WREN AND THE BEAR</title>
+     <title>THE FROG-PRINCE</title>
+     <title>CAT AND MOUSE IN PARTNERSHIP</title>
+     <title>THE GOOSE-GIRL</title>
+     <title>THE ADVENTURES OF CHANTICLEER AND PARTLET
        1. HOW THEY WENT TO THE MOUNTAINS TO EAT NUTS
-       2. HOW CHANTICLEER AND PARTLET WENT TO VISIT MR KORBES
-     RAPUNZEL
-     FUNDEVOGEL
-     THE VALIANT LITTLE TAILOR
-     HANSEL AND GRETEL
-     THE MOUSE, THE BIRD, AND THE SAUSAGE
-     MOTHER HOLLE
-     LITTLE RED-CAP [LITTLE RED RIDING HOOD]
-     THE ROBBER BRIDEGROOM
-     TOM THUMB
-     RUMPELSTILTSKIN
-     CLEVER GRETEL
-     THE OLD MAN AND HIS GRANDSON
-     THE LITTLE PEASANT
-     FREDERICK AND CATHERINE
-     SWEETHEART ROLAND
-     SNOWDROP
-     THE PINK
-     CLEVER ELSIE
-     THE MISER IN THE BUSH
-     ASHPUTTEL
-     THE WHITE SNAKE
-     THE WOLF AND THE SEVEN LITTLE KIDS
-     THE QUEEN BEE
-     THE ELVES AND THE SHOEMAKER
-     THE JUNIPER-TREE
-     the juniper-tree.
-     THE TURNIP
-     CLEVER HANS
-     THE THREE LANGUAGES
-     THE FOX AND THE CAT
-     THE FOUR CLEVER BROTHERS
-     LILY AND THE LION
-     THE FOX AND THE HORSE
-     THE BLUE LIGHT
-     THE RAVEN
-     THE GOLDEN GOOSE
-     THE WATER OF LIFE
-     THE TWELVE HUNTSMEN
-     THE KING OF THE GOLDEN MOUNTAIN
-     DOCTOR KNOWALL
-     THE SEVEN RAVENS
-     THE WEDDING OF MRS FOX
-     FIRST STORY
-     SECOND STORY
-     THE SALAD
-     THE STORY OF THE YOUTH WHO WENT FORTH TO LEARN WHAT FEAR WAS
-     KING GRISLY-BEARD
-     IRON HANS
-     CAT-SKIN
-     SNOW-WHITE AND ROSE-RED
+       2. HOW CHANTICLEER AND PARTLET WENT TO VISIT MR KORBES</title>
+     <title>RAPUNZEL</title>
+     <title>FUNDEVOGEL</title>
+     <title>THE VALIANT LITTLE TAILOR</title>
+     <title>HANSEL AND GRETEL</title>
+     <title>THE MOUSE, THE BIRD, AND THE SAUSAGE</title>
+     <title>MOTHER HOLLE</title>
+     <title>LITTLE RED-CAP [LITTLE RED RIDING HOOD]</title>
+     <title>THE ROBBER BRIDEGROOM</title>
+     <title>TOM THUMB</title>
+     <title>RUMPELSTILTSKIN</title>
+     <title>CLEVER GRETEL</title>
+     <title>THE OLD MAN AND HIS GRANDSON</title>
+     <title>THE LITTLE PEASANT</title>
+     <title>FREDERICK AND CATHERINE</title>
+     <title>SWEETHEART ROLAND</title>
+     <title>SNOWDROP</title>
+     <title>THE PINK</title>
+     <title>CLEVER ELSIE</title>
+     <title>THE MISER IN THE BUSH</title>
+     <title>ASHPUTTEL</title>
+     <title>THE WHITE SNAKE</title>
+     <title>THE WOLF AND THE SEVEN LITTLE KIDS</title>
+     <title>THE QUEEN BEE</title>
+     <title>THE ELVES AND THE SHOEMAKER</title>
+     <title>THE JUNIPER-TREE</title>
+     <title>THE TURNIP</title>
+     <title>CLEVER HANS</title>
+     <title>THE THREE LANGUAGES</title>
+     <title>THE FOX AND THE CAT</title>
+     <title>THE FOUR CLEVER BROTHERS</title>
+     <title>LILY AND THE LION</title>
+     <title>THE FOX AND THE HORSE</title>
+     <title>THE BLUE LIGHT</title>
+     <title>THE RAVEN</title>
+     <title>THE GOLDEN GOOSE</title>
+     <title>THE WATER OF LIFE</title>
+     <title>THE TWELVE HUNTSMEN</title>
+     <title>THE KING OF THE GOLDEN MOUNTAIN</title>
+     <title>DOCTOR KNOWALL</title>
+     <title>THE SEVEN RAVENS</title>
+     <title>THE WEDDING OF MRS FOX</title>
+     <title>FIRST STORY</title>
+     <title>SECOND STORY</title>
+     <title>THE SALAD</title>
+     <title>THE STORY OF THE YOUTH WHO WENT FORTH TO LEARN WHAT FEAR WAS</title>
+     <title>KING GRISLY-BEARD</title>
+     <title>IRON HANS</title>
+     <title>CAT-SKIN</title>
+     <title>SNOW-WHITE AND ROSE-RED</title></contents>
 
+<title>THE BROTHERS GRIMM FAIRY TALES<title>
 
-
-
-THE BROTHERS GRIMM FAIRY TALES
-
-
-
-
-THE GOLDEN BIRD
+<chapter>
+<title>THE GOLDEN BIRD</title>
 
 A certain king had a beautiful garden, and in the garden stood a tree
 which bore golden apples. These apples were always counted, and about
@@ -9148,3 +9142,4 @@ together in his cave. The old mother lived peacefully and happily with
 her children for many years. She took the two rose-trees with her, and
 they stood before her window, and every year bore the most beautiful
 roses, white and red.
+</xml>
