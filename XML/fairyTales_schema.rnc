@@ -6,6 +6,10 @@ note= element note {text}
 contents = element contents {head, title+}
 head = element head {text}
 title = element title {text}
-chapter = element chapter {mixed {subTitle?, title, p+}}
+chapter = element chapter {title, (subChapter | p)+}
+subChapter = element subChapter {subTitle, p+}
+# ebb: I've wrapped a subChapter element around the whole inner stories 
+# we are seeing here because I think that will help to locate and query them for XQuery! 
+# Basically a subChapter is structured like a chapter, with a subTitle, followed by one or more paragraphs.
 subTitle = element subTitle {text}
 p = element p {text}
