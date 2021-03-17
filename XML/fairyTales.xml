@@ -1,5 +1,7 @@
 ﻿<?xml-model href="fairyTales_schema.rnc" type="application/relax-ng-compact-syntax"?>
-<xml>FAIRY TALES <author>By The Brothers Grimm</author>
+<xml>
+  <heading>FAIRY TALES</heading>
+  <author>By The Brothers Grimm</author>
   <note>PREPARER’S NOTE The text is based on translations from the Grimms’ Kinder und Hausmarchen by
     Edgar Taylor and Marian Edwardes.</note>
   <contents>
@@ -5333,7 +5335,7 @@
   <chapter>
     <title>THE WEDDING OF MRS FOX</title>
     <p>
-      <title>FIRST STORY</title></p>
+      <subTitle>FIRST STORY</subTitle></p>
     <p>There was once upon a time an old fox with nine tails, who believed that his wife was not
       faithful to him, and wished to put her to the test. He stretched himself out under the bench,
       did not move a limb, and behaved as if he were stone dead. Mrs Fox went up to her room, shut
@@ -5363,7 +5365,7 @@
     <p>But just as the wedding was going to be solemnized, old Mr Fox stirred under the bench, and
       cudgelled all the rabble, and drove them and Mrs Fox out of the house.</p>
     <p>
-      <title>SECOND STORY</title></p>
+      <subtitle>SECOND STORY</subtitle></p>
     <p>When old Mr Fox was dead, the wolf came as a suitor, and knocked at the door, and the cat who
       was servant to Mrs Fox, opened it for him. The wolf greeted her, and said:</p>
     <p> ‘Good day, Mrs Cat of Kehrewit, How comes it that alone you sit? What are you making

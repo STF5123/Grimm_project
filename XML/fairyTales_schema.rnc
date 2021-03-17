@@ -1,9 +1,11 @@
 start = xml
-xml = element xml {author, note, contents, title, chapter+}
+xml = element xml {heading, author, note, contents, title, chapter+}
+heading = element heading {text}
 author= element author {text}
 note= element note {text}
 contents = element contents {head, title+}
 head = element head {text}
 title = element title {text}
-chapter = element chapter {title, p+}
+chapter = element chapter {mixed {subTitle?, title, p+}}
+subTitle = element subTitle {text}
 p = element p {text}
