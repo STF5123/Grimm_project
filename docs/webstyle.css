@@ -1,6 +1,6 @@
 
 body {
-background-color: grey;
+background-color: white;
 color: black;
 font-family: arial, helvetica, sans-serif;
 }
@@ -9,14 +9,18 @@ padding: 5em;
 }    
 ul {
   list-style-type: none;
-  margin: 0;
-  padding: 0;
+  margin: 40;
+  padding: 50;
   overflow: hidden;
-  background-color: black;
+  background-color: grey;
 }
 
+p
+{color:black;
+}
 li {
-  float: left;
+  float: left
+;
 }
 
 li a {
@@ -29,4 +33,4 @@ li a {
 
 li a:hover {
   background-color: #111;
-}
+  }
