@@ -12,4 +12,5 @@ subChapter = element subChapter {subTitle, p+}
 # we are seeing here because I think that will help to locate and query them for XQuery! 
 # Basically a subChapter is structured like a chapter, with a subTitle, followed by one or more paragraphs.
 subTitle = element subTitle {text}
-p = element p {text}
+p = element p {buzzword*, text}
+buzword = element buzzword {text}
