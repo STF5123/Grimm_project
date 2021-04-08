@@ -1,0 +1,156 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>CSS Template</title>
+        <meta charset="utf-8">
+            <meta name="viewport" content="width=device-width, initial-scale=1">
+                <style>
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+/* Style the header */
+header {
+  background-color: #666;
+  padding: 30px;
+  text-align: center;
+  font-size: 35px;
+  color: white;
+}
+
+/* Create two columns/boxes that floats next to each other */
+nav {
+  float: left;
+  width: 30%;
+  height: 300px; /* only for demonstration, should be removed */
+  background: #ccc;
+  padding: 20px;
+}
+
+/* Style the list inside the menu */
+nav ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+article {
+  float: left;
+  padding: 20px;
+  width: 70%;
+  background-color: #f1f1f1;
+  height: 300px; /* only for demonstration, should be removed */
+}
+
+/* Clear floats after the columns */
+section::after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+/* Style the footer */
+footer {
+  background-color: #777;
+  padding: 10px;
+  text-align: center;
+  color: white;
+}
+
+/* Responsive layout - makes the two columns/boxes stack on top of each other instead of next to each other, on small screens */
+@media (max-width: 600px) {
+  nav, article {
+    width: 100%;
+    height: auto;
+  }
+}
+</style>
+    </head>
+    <body>
+        
+        
+        <header>
+            <h2>Works Used</h2>
+        </header>
+        
+        <section>
+            <nav>
+                <ul>
+                    <li><a class="active" href="GoldenBird.html">Golden Bird</a></li>   
+                    <li><a class="active" href="hansinluck.html">Hans In Luck</a></li>
+                    <li><a class="active" href="JorindaAndJorindel.html">Jorinda and Jorindel</a></li>
+                    <li><a class="active" href="travellingmusicians.html">The Travelling Musicians</a></li>
+                    <li><a class="active" href="OldSultan.html">Old Sultan</a></li>
+                    <li><a class="active" href="Thecoal.html">The Straw, The Coal, and The Bean</a></li>
+                    <li><a class="active" href="BriarRose.html">Briar Rose</a></li>
+                    <li><a class="active" href="dogandsparrow.html">The Dog and The Sparrow</a></li>
+                    <li><a class="active" href="12dancingprincesses.html">The Twelve Dancing Preincesses</a></li>
+                    <li><a class="active" href="willowandbear.html">The Willow-Wren and The Bear</a></li>
+                    <li><a class="active" href="frogprince.html">The Frog Prince</a></li>
+                    <li><a class="active" href="catandmouse.html">Cat and Mouse in Partnership</a></li>
+                    <li><a class="active" href="ChanticlerandPartlet.html">The Adventures of Chanticler and Partlet</a></li>
+                    <li><a class="active" href="rapunzel.html">Rapunzel</a></li>
+                    <li><a class="active" href="fundevogel.html">Fundevogel</a></li>
+                    <li><a class="active" href="tailor.html">The Valiant Little Tailor</a></li>
+                    <li><a class="active" href="hanselandgretel.html">Hansel and Gretel</a></li>
+                    <li><a class="active" href="mousebirdsausage.html">The Mouse, The Bird, and The Sausage</a></li>
+                    <li><a class="active" href="mothermole.html">Mother Mole</a></li>
+                    <li><a class="active" href="littleredcap.html">Little Red Cap</a></li>
+                    <li><a class="active" href="robberbridegroom.html">The Robber Bridegroom</a></li>
+                    <li><a class="active" href="Rumplestiltskin.html">Rumplestiltskin</a></li>
+                    <li><a class="active" href="clevergretel.html">Clever Gretel</a></li>
+                    <li><a class="active" href="oldman.html">The Old Man and His Grandson</a></li>
+                    <li><a class="active" href="littlepeasant.html">The Litte Peasant</a></li>
+                    <li><a class="active" href="fredereickandcatherine.html">Frederick and Catherine</a></li>
+                    <li><a class="active" href="sweetheartroland.html">Sweetheart Roland</a></li>
+                    <li><a class="active" href="snowdrop.html">Snowdrop</a></li>
+                    <li><a class="active" href="thepink.html">The Pink</a></li>
+                    <li><a class="active" href="cleverelise.html">Clever Elise</a></li>
+                    <li><a class="active" href="miserinthebush.html">The Miser In the Bush</a></li>
+                    <li><a class="active" href="ashputtel.html">Ashputtel</a></li>
+                    <li><a class="active" href="thewhitesnake.html">The White Snake</a></li>
+                    <li><a class="active" href="thewolf.html">The Wolf and The Seven Little Kids</a></li>
+                    <li><a class="active" href="thequeenbee.html">The Queen Bee</a></li>
+                    <li><a class="active" href="elvesandshoemaker.html">The Elves and The Shoe Maker</a></li>
+                    <li><a class="active" href="junipertree.html">The Juniper-Tree</a></li>
+                    <li><a class="active" href="turnip.html">The Turnip</a></li>
+                    <li><a class="active" href="cleverhans.html">Clever Hans</a></li>
+                    <li><a class="active" href="threelanguages.html">The Three Languages</a></li>
+                    <li><a class="active" href="foxandcat.html">The Fox and The Cat</a></li>
+                    <li><a class="active" href="fourcleverbrothers.html">The Four Clever Brothers</a></li>
+                    <li><a class="active" href="lillyandlion.html">Lilly and The Lion</a></li>
+                    <li><a class="active" href="foxandhorse.html">The Fox and The Horse</a></li>
+                    <li><a class="active" href="bluelight.html">The Blue Light</a></li>
+                    <li><a class="active" href="raven.html">The Raven</a></li>
+                    <li><a class="active" href="goldengoose.html">The Golden Goose</a></li>
+                    <li><a class="active" href="wateroflife.html">The Water of Life</a></li>
+                    <li><a class="active" href="twelvehuntsman.html">The The Twelve Huntsman</a></li>
+                    <li><a class="active" href="goldenmountain.html">The King of The Golden Mountain</a></li>
+                    <li><a class="active" href="doctorknowall.html">Doctor Knowall</a></li>
+                    <li><a class="active" href="sevenravens.html">The Seven Ravens</a></li>
+                    <li><a class="active" href="weddingofmrsfox.html">The Wedding of Mrs Fox</a></li>
+                    <li><a class="active" href="salad.html">The Salad</a></li>
+                    <li><a class="active" href="youthfear.html">The Story Of The Youth Who Went Forth To Learn What Fear Was</a></li>
+                    <li><a class="active" href="grisleybeard.html">King Grisley-Beard</a></li>
+                    <li><a class="active" href="ironhans.html">Iron Hans</a></li>
+                    <li><a class="active" href="catskin.html">Cat-Skin</a></li>
+                    <li><a class="active" href="snowwhite.html">Snow White and Rose Red</a></li>
+                </ul>
+            </nav>
+            
+            <article>
+                <h1>London</h1>
+                <p>London is the capital city of England. It is the most populous city in the  United Kingdom, with a metropolitan area of over 13 million inhabitants.</p>
+                <p>Standing on the River Thames, London has been a major settlement for two millennia, its history going back to its founding by the Romans, who named it Londinium.</p>
+            </article>
+        </section>
+        
+        <footer>
+            <p>Footer</p>
+        </footer>
+        
+    </body>
+</html>
