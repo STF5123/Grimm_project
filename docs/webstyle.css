@@ -1,9 +1,9 @@
 
 body {
-background-color: white;
+background-color: #f7e7d8 ;
 color: black;
 font-family: arial, helvetica, sans-serif;
-}
+font-size:100%;line-height:1.5em;}
 ol {list-style-type: lower-alpha;
 padding: 5em;
 }    
@@ -12,11 +12,13 @@ ul {
   margin: 40;
   padding: 50;
   overflow: hidden;
-  background-color: grey;
+  background-color: #4c3144 ;
 }
 
 p
 {color:black;
+
+
 }
 li {
   float: left
