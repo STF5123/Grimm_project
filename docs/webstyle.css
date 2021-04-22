@@ -3,23 +3,29 @@ body {
 background-color: #f7e7d8 ;
 color: black;
 font-family: arial, helvetica, sans-serif;
-font-size:100%;line-height:1.5em;}
+font-size:100%;line-height:1.5em;
+text-align: center;
+}
+h1{font-size:225%;font-weight:700;padding:50;letter-spacing:0.12em;margin:1em 0 0 0}
+h2{font-size:170%;font-weight:700;}
+h3{font-size:95%;font-weight:200;}
+h4{font-size:135%;font-weight:700}
+p{font-size:125%;line-height:1.5em;}
 ol {list-style-type: lower-alpha;
 padding: 5em;
 }    
 ul {
   list-style-type: none;
-  margin: 40;
-  padding: 50;
+ text-align:center;
   overflow: hidden;
   background-color: #4c3144 ;
+ 
+
+
+  
 }
 
-p
-{color:black;
 
-
-}
 li {
   float: left
 ;
@@ -36,3 +42,4 @@ li a {
 li a:hover {
   background-color: #111;
   }
+
