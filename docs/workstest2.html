@@ -11,22 +11,28 @@
 }
 
 body {
-  font-family: Arial, Helvetica, sans-serif;
-}
+  font-family: Arial;
+  background-color: #f7e7d8;
+  font-size:medium;}
 
 /* Style the header */
 header {
-  background-color: #666;
+  background-color: #f7e7d8;
   padding: 30px;
   text-align: center;
   font-size: 35px;
   color: white;
 }
-
+h1{font-size:225%;font-weight:700;padding:50;letter-spacing:0.12em;margin:1em 0 0 0}
+h2{font-size:170%;font-weight:700;}
+h3{font-size:95%;font-weight:200;}
+h4{font-size:135%;font-weight:700}
+p{font-size:125%;line-height:1.5em;}
 /* Container for flexboxes */
 section {
   display: -webkit-flex;
   display: flex;
+ 
 }
 
 /* Style the navigation menu */
@@ -34,7 +40,7 @@ nav {
   -webkit-flex: 1;
   -ms-flex: 1;
   flex: 1;
-  background: #ccc;
+  background: #f7e7d8;
   padding: 20px;
 }
 
@@ -49,13 +55,13 @@ article {
   -webkit-flex: 3;
   -ms-flex: 3;
   flex: 3;
-  background-color: #f1f1f1;
+  background-color: #f7e7d8;
   padding: 10px;
 }
 
 /* Style the footer */
 footer {
-  background-color: #777;
+  background-color: #f7e7d8;
   padding: 10px;
   text-align: center;
   color: white;
@@ -67,95 +73,108 @@ footer {
     -webkit-flex-direction: column;
     flex-direction: column;
   }
-}
+
 </style>
 
-    </head>
-    <body>
-        
-        <header>
-          <center>><h2>Grimm Brothers Tales</h2></center
-          <center><p>These are the list of stories we chose to analyze for our project. While it does not encompass the enite catalog</p></center
-          <center><p>we decided on a mix of known and unkown works.</p></center
-        </header>
-        
-        <section>
+   
+  <body>
+    <center><h1>Grim Brothers Analysis</h1></center>
+    
+    <ul>
+      <li><a class="active" href="index.html">Home</a></li>
+      <li><a href="works.html">Works</a></li>            
+      <li><a href="analysis.html">Analysis</a></li>
+      <li><a href="info.html">About Us</a></li>
+      <li><a href="workstest2.html">test</a></li>
+    </ul>
+    <center><h2>These are ths stories we chose to work with. Some are well known and others not so much.</h2></center>
+        <section class="indent-1">
+          <section>
             <nav>
              
                 <ul>
+                  <li><a class="active" target ="frame"   href="ashputtel.html">Ashputtel</a></li>
+                  <li><a class="active" target ="frame"  href="BriarRose.html">Briar Rose</a></li>
+                  <li><a class="active" target ="frame"   href="catandmouse.html">Cat and Mouse in Partnership</a></li>
+                  <li><a class="active" target ="frame"   href="catskin.html">Cat-Skin</a></li>
+                  <li><a class="active" target ="frame"   href="cleverelise.html">Clever Elise</a></li>
+                  <li><a class="active" target ="frame"   href="clevergretel.html">Clever Gretel</a></li>
+                  <li><a class="active" target ="frame"   href="cleverhans.html">Clever Hans</a></li>
+                  <li><a class="active" target ="frame"   href="doctorknowall.html">Doctor Knowall</a></li>
+                  <li><a class="active" target ="frame"   href="frederickandcatherine.html">Frederick and Catherine</a></li>
+                  <li><a class="active" target ="frame"   href="fundevogel.html">Fundevogel</a></li>
                     <li><a class="active" target ="frame" href="GoldenBird.html">Golden Bird</a></li>   
                   <li><a class="active" target ="frame" href="hansinluck.html">Hans In Luck</a></li>
-                  <li><a class="active" target ="frame"  href="JorindaAndJorindel.html">Jorinda and Jorindel</a></li>
-                  <li><a class="active" target ="frame"  href="travellingmusicians.html">The Travelling Musicians</a></li>
-                  <li><a class="active" target ="frame"  href="OldSultan.html">Old Sultan</a></li>
-                  <li><a class="active" target ="frame"  href="Thecoal.html">The Straw, The Coal, and The Bean</a></li>
-                  <li><a class="active" target ="frame"  href="BriarRose.html">Briar Rose</a></li>
-                  <li><a class="active" target ="frame"  href="dogandsparrow.html">The Dog and The Sparrow</a></li>
-                  <li><a class="active" target ="frame"  href="12dancingprincesses.html">The Twelve Dancing Preincesses</a></li>
-                  <li><a class="active" target ="frame"   href="willowandbear.html">The Willow-Wren and The Bear</a></li>
-                  <li><a class="active" target ="frame"   href="frogprince.html">The Frog Prince</a></li>
-                  <li><a class="active" target ="frame"   href="catandmouse.html">Cat and Mouse in Partnership</a></li>
-                  <li><a class="active" target ="frame"   href="ChanticlerandPartlet.html">The Adventures of Chanticler and Partlet</a></li>
-                  <li><a class="active" target ="frame"   href="rapunzel.html">Rapunzel</a></li>
-                  <li><a class="active" target ="frame"   href="fundevogel.html">Fundevogel</a></li>
-                  <li><a class="active" target ="frame"   href="tailor.html">The Valiant Little Tailor</a></li>
                   <li><a class="active" target ="frame"   href="hanselandgretel.html">Hansel and Gretel</a></li>
-                  <li><a class="active" target ="frame"   href="mousebirdsausage.html">The Mouse, The Bird, and The Sausage</a></li>
-                  <li><a class="active" target ="frame"  href="mothermole.html">Mother Mole</a></li>
-                  <li><a class="active" target ="frame"   href="littleredcap.html">Little Red Cap</a></li>
-                  <li><a class="active" target ="frame"   href="robberbridegroom.html">The Robber Bridegroom</a></li>
-                  <li><a class="active" target ="frame"   href="Rumplestiltskin.html">Rumplestiltskin</a></li>
-                  <li><a class="active" target ="frame"   href="clevergretel.html">Clever Gretel</a></li>
-                  <li><a class="active" target ="frame"   href="oldman.html">The Old Man and His Grandson</a></li>
-                  <li><a class="active" target ="frame"   href="littlepeasant.html">The Litte Peasant</a></li>
-                  <li><a class="active" target ="frame"   href="fredereickandcatherine.html">Frederick and Catherine</a></li>
-                  <li><a class="active" target ="frame"   href="sweetheartroland.html">Sweetheart Roland</a></li>
-                  <li><a class="active" target ="frame"   href="snowdrop.html">Snowdrop</a></li>
-                  <li><a class="active" target ="frame"   href="thepink.html">The Pink</a></li>
-                  <li><a class="active" target ="frame"   href="cleverelise.html">Clever Elise</a></li>
-                  <li><a class="active" target ="frame"   href="miserinthebush.html">The Miser In the Bush</a></li>
-                  <li><a class="active" target ="frame"   href="ashputtel.html">Ashputtel</a></li>
-                  <li><a class="active" target ="frame"   href="thewhitesnake.html">The White Snake</a></li>
-                  <li><a class="active" target ="frame"   href="thewolf.html">The Wolf and The Seven Little Kids</a></li>
-                  <li><a class="active" target ="frame"   href="thequeenbee.html">The Queen Bee</a></li>
-                  <li><a class="active" target ="frame"   href="elvesandshoemaker.html">The Elves and The Shoe Maker</a></li>
-                  <li><a class="active" target ="frame"   href="junipertree.html">The Juniper-Tree</a></li>
-                  <li><a class="active" target ="frame"   href="turnip.html">The Turnip</a></li>
-                  <li><a class="active" target ="frame"   href="cleverhans.html">Clever Hans</a></li>
-                  <li><a class="active" target ="frame"   href="threelanguages.html">The Three Languages</a></li>
-                  <li><a class="active" target ="frame"   href="foxandcat.html">The Fox and The Cat</a></li>
-                  <li><a class="active" target ="frame"   href="fourcleverbrothers.html">The Four Clever Brothers</a></li>
-                  <li><a class="active" target ="frame"   href="lillyandlion.html">Lilly and The Lion</a></li>
-                  <li><a class="active" target ="frame"   href="foxandhorse.html">The Fox and The Horse</a></li>
-                  <li><a class="active" target ="frame"   href="bluelight.html">The Blue Light</a></li>
-                  <li><a class="active" target ="frame"   href="raven.html">The Raven</a></li>
-                  <li><a class="active" target ="frame"   href="goldengoose.html">The Golden Goose</a></li>
-                  <li><a class="active" target ="frame"   href="wateroflife.html">The Water of Life</a></li>
-                  <li><a class="active" target ="frame"   href="twelvehuntsman.html">The The Twelve Huntsman</a></li>
-                  <li><a class="active" target ="frame"   href="goldenmountain.html">The King of The Golden Mountain</a></li>
-                  <li><a class="active" target ="frame"   href="doctorknowall.html">Doctor Knowall</a></li>
-                  <li><a class="active" target ="frame"   href="sevenravens.html">The Seven Ravens</a></li>
-                  <li><a class="active" target ="frame"   href="weddingofmrsfox.html">The Wedding of Mrs Fox</a></li>
-                  <li><a class="active" target ="frame"   href="salad.html">The Salad</a></li>
-                  <li><a class="active" target ="frame"   href="youthfear.html">The Story Of The Youth Who Went Forth To Learn What Fear Was</a></li>
-                  <li><a class="active" target ="frame"   href="grisleybeard.html">King Grisley-Beard</a></li>
                   <li><a class="active" target ="frame"   href="ironhans.html">Iron Hans</a></li>
-                  <li><a class="active" target ="frame"   href="catskin.html">Cat-Skin</a></li>
+                  <li><a class="active" target ="frame"  href="JorindaAndJorindel.html">Jorinda and Jorindel</a></li>
+                  <li><a class="active" target ="frame"   href="grisleybeard.html">King Grisley-Beard</a></li>
+                  <li><a class="active" target ="frame"   href="lillyandlion.html">Lilly and The Lion</a></li>
+                  <li><a class="active" target ="frame"   href="littleredcap.html">Little Red Cap</a></li>
+                  <li><a class="active" target ="frame"  href="mothermole.html">Mother Mole</a></li>
+                  <li><a class="active" target ="frame"  href="OldSultan.html">Old Sultan</a></li>
+                  <li><a class="active" target ="frame"   href="rapunzel.html">Rapunzel</a></li>
+                  <li><a class="active" target ="frame"   href="Rumplestiltskin.html">Rumplestiltskin</a></li>
                   <li><a class="active" target ="frame"   href="snowwhite.html">Snow White and Rose Red</a></li>
+                  <li><a class="active" target ="frame"   href="snowdrop.html">Snowdrop</a></li>
+                  <li><a class="active" target ="frame"   href="sweetheartroland.html">Sweetheart Roland</a></li>
+                  <li><a class="active" target ="frame"   href="ChanticlerandPartlet.html">The Adventures of Chanticler and Partlet</a></li>
+                  <li><a class="active" target ="frame"   href="bluelight.html">The Blue Light</a></li>
+                  <li><a class="active" target ="frame"  href="dogandsparrow.html">The Dog and The Sparrow</a></li>
+                  <li><a class="active" target ="frame"   href="elvesandshoemaker.html">The Elves and The Shoe Maker</a></li>
+                  <li><a class="active" target ="frame"   href="fourcleverbrothers.html">The Four Clever Brothers</a></li>
+                  <li><a class="active" target ="frame"   href="foxandcat.html">The Fox and The Cat</a></li>
+                  <li><a class="active" target ="frame"   href="foxandhorse.html">The Fox and The Horse</a></li>
+                  <li><a class="active" target ="frame"   href="frogprince.html">The Frog Prince</a></li>
+                  <li><a class="active" target ="frame"   href="goldengoose.html">The Golden Goose</a></li>
+                  <li><a class="active" target ="frame"   href="junipertree.html">The Juniper-Tree</a></li>
+                  <li><a class="active" target ="frame"   href="goldenmountain.html">The King of The Golden Mountain</a></li>
+                  <li><a class="active" target ="frame"   href="littlepeasant.html">The Litte Peasant</a></li>
+                  <li><a class="active" target ="frame"   href="miserinthebush.html">The Miser In the Bush</a></li>
+                  <li><a class="active" target ="frame"   href="mousebirdsausage.html">The Mouse, The Bird, and The Sausage</a></li>
+                  <li><a class="active" target ="frame"   href="oldman.html">The Old Man and His Grandson</a></li>
+                  <li><a class="active" target ="frame"   href="thepink.html">The Pink</a></li>
+                  <li><a class="active" target ="frame"   href="thequeenbee.html">The Queen Bee</a></li>
+                  <li><a class="active" target ="frame"   href="raven.html">The Raven</a></li>
+                  <li><a class="active" target ="frame"   href="robberbridegroom.html">The Robber Bridegroom</a></li>
+                  <li><a class="active" target ="frame"   href="salad.html">The Salad</a></li>
+                  <li><a class="active" target ="frame"   href="sevenravens.html">The Seven Ravens</a></li>
+                  <li><a class="active" target ="frame"   href="youthfear.html">The Story Of The Youth Who Went Forth To Learn What Fear Was</a></li>
+                  <li><a class="active" target ="frame"  href="Thecoal.html">The Straw, The Coal, and The Bean</a></li>
+                  <li><a class="active" target ="frame"   href="threelanguages.html">The Three Languages</a></li>
+                  <li><a class="active" target ="frame"  href="travellingmusicians.html">The Travelling Musicians</a></li>
+                  <li><a class="active" target ="frame"   href="turnip.html">The Turnip</a></li>
+                  <li><a class="active" target ="frame"  href="12dancingprincesses.html">The Twelve Dancing Preincesses</a></li>
+                  <li><a class="active" target ="frame"   href="twelvehuntsman.html">The Twelve Huntsman</a></li>
+                  <li><a class="active" target ="frame"   href="tailor.html">The Valiant Little Tailor</a></li>
+                  <li><a class="active" target ="frame"   href="wateroflife.html">The Water of Life</a></li>
+                  <li><a class="active" target ="frame"   href="weddingofmrsfox.html">The Wedding of Mrs Fox</a></li>
+                  <li><a class="active" target ="frame"   href="thewhitesnake.html">The White Snake</a></li>
+                  <li><a class="active" target ="frame"   href="willowandbear.html">The Willow-Wren and The Bear</a></li>
+                  <li><a class="active" target ="frame"   href="thewolf.html">The Wolf and The Seven Little Kids</a></li>
+
                 </ul>
-              
-              <iframe name="frame" ></iframe>
-            </nav>
+          </section>
+          </nav>
+          <section>
+            <iframe name="frame" width="1500" height="2500" style="border:none;" ></iframe>  
             
+          </section>
             <article>
-                <h1></h1>
+              <img src="images/book_cover.jpg" alt="image of book cover"/>
+              <img src="images/LRRH.jpg" alt="image of little red ridinghood"/>
+              <img src="images/SW.jpg" alt="image of snowwhite"/>
                 <p></p>
                 <p></p>
             </article>
         </section>
         
         <footer>
-            <p>Footer</p>
+          <h3>We are at <a href="https://behrend.psu.edu/">Penn State Erie, The Behrend College</a>.</h3>
+          <!--ebb: The <a> element above is showing how to make an *absolute* file association with a literal, full website address. 
+            Only do this for pointing OUTSIDE your own repo. -->
+          
+          <h3>Here is a link to the Code View of <a href="https://github.com/newtfire/grimmporoject">our textAnalysis-Hub repository</a>.</h3>
         </footer>
         
     </body>
