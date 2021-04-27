@@ -18,29 +18,37 @@ ul {
   list-style-type: none;
  text-align:center;
   overflow: hidden;
-  background-color: #4c3144 ;
-  float: center;
- 
+  background-color: #4c3144 ;}
 
 
-  
-}
-
-
-li {
-  float: left
-;
-}
+li {  float: left;}
 
 li a {
   display: block;
   color: white;
   text-align: center;
   padding: 14px 16px;
-  text-decoration: none;
-}
+  text-decoration: none;}
 
 li a:hover {
   background-color: #111;
   }
 
+ol {
+  list-style-type: none;
+ text-align:center;
+  overflow: hidden;
+  background-color: #4c3144 ;}
+
+
+li {  float: left;}
+
+li a {
+  display: block;
+  color: white;
+  text-align: left;
+  padding: 5px 10px;
+  text-decoration: none;}
+
+li a:hover {
+  background-color: #111;
