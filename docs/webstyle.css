@@ -5,8 +5,10 @@ color: black;
 font-family: arial, helvetica, sans-serif;
 font-size:100%;line-height:1.5em;
 text-align: center;
+padding:1vw;
+
 }
-h1{font-size:225%;font-weight:700;padding:50;letter-spacing:0.12em;margin:1em 0 0 0}
+h1{font-size:225%;font-weight:700;padding:50px;letter-spacing:0.12em;margin:1em 0 0 0;}
 h2{font-size:170%;font-weight:700;}
 h3{font-size:95%;font-weight:200;}
 h4{font-size:135%;font-weight:700}
@@ -21,16 +23,16 @@ ul {
   background-color: #4c3144 ;}
 
 
-li {  float: left;}
+ul li {  float: left;}
 
-li a {
+ul li a {
   display: block;
   color: white;
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;}
 
-li a:hover {
+ul li a:hover {
   background-color: #111;
   }
 
@@ -41,14 +43,25 @@ ol {
   background-color: #4c3144 ;}
 
 
-li {  float: left;}
+ol li {  float: left;}
 
-li a {
+ol li a {
   display: block;
   color: white;
   text-align: left;
   padding: 5px 10px;
   text-decoration: none;}
 
-li a:hover {
+ol li a:hover {
   background-color: #111;
+}
+
+/* SVG sizing */
+embed {width:70%} 
+
+div#flexContainer { 
+display:flex;
+flex-direction:row;
+flex-wrap:wrap;
+}
+
