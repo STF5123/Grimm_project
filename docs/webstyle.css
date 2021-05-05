@@ -43,13 +43,14 @@ ol {
   background-color: #4c3144 ;}
 
 
-ol li {  float: left;}
+ol li {white-space: nowrap;}
 
 ol li a {
+
   display: block;
   color: white;
   text-align: left;
-  padding: 5px 10px;
+  padding: 0px 0px;
   text-decoration: none;}
 
 ol li a:hover {

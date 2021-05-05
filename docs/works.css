@@ -29,6 +29,7 @@ padding: 20px;
 
 /* Style the list inside the menu */
 nav ul {
+text-align:center;
 list-style-type: none;
 padding: 0;
 }
@@ -64,3 +65,5 @@ height: auto;
 }
 }
 </style>
+
+
