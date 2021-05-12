@@ -24,7 +24,7 @@ I admire the lovely presentation of the text on the Grimm project site. It's eas
 
 The works2.html page is very wide though, so you probably want to look for ways to control the proportional width of the three side by side divs. Let’s look at the structure: You have a body element wrapping around two sections and an `<article>` element. 
 In your CSS, set the width of the body to be 100% and it will fill the available screen (instead of taking up more space). Then set rules for the sections and article:
-``1`
+```
 section.indent 2 
 ```
 (You shouldn’t use a space in a class like that, as it indicates two *different* class properties. Just call it `section.indent` insstead.
